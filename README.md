@@ -1,1 +1,1 @@
-# Connect_4_Game
+I created a responsive Connect 4 game using HTML, CSS, and JavaScript, allowing players to enjoy this classic strategy game in a web browser. The game features a visually appealing grid where players take turns dropping colored discs. With a focus on user experience, the design adapts seamlessly to different screen sizes, ensuring accessibility on both desktop and mobile devices. 
